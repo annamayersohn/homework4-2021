@@ -34,7 +34,7 @@ body{
   background-color: #DDDDDD;
   background-size: cover;
   background-position: center;
-  /* background-repeat: no-repeat; */
+  background-repeat: no-repeat;
 
   /*Req 1*/
 }

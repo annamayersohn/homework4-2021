@@ -34,6 +34,7 @@ body{
   background-color: #DDDDDD;
   background-size: cover;
   background-position: center;
+  /* background-repeat: no-repeat; */
 
   /*Req 1*/
 }
@@ -42,7 +43,7 @@ h1{
   color: #c12258;
   font-size: 32px;
   line-height: 2;
-
+  text-align: center;
   /*Req 2*/
 }
 
